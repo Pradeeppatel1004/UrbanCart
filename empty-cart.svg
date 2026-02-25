@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Cart body -->
+  <rect x="100" y="120" width="200" height="120" rx="16" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <!-- Cart handle -->
+  <path d="M80 120 L100 120" stroke="#d97706" stroke-width="4" stroke-linecap="round"/>
+  <path d="M60 100 L80 120" stroke="#d97706" stroke-width="4" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="150" cy="250" r="14" fill="#d97706" stroke="#92400e" stroke-width="2"/>
+  <circle cx="250" cy="250" r="14" fill="#d97706" stroke="#92400e" stroke-width="2"/>
+  <circle cx="150" cy="250" r="5" fill="#fef3c7"/>
+  <circle cx="250" cy="250" r="5" fill="#fef3c7"/>
+  <!-- Sad face -->
+  <circle cx="170" cy="170" r="6" fill="#d97706"/>
+  <circle cx="230" cy="170" r="6" fill="#d97706"/>
+  <path d="M170 205 Q200 190 230 205" stroke="#d97706" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Sparkle decorations -->
+  <path d="M320 80 L325 90 L335 85 L325 95 L330 105 L322 97 L312 102 L318 92 Z" fill="#fbbf24" opacity="0.6"/>
+  <path d="M70 60 L73 67 L80 64 L74 70 L77 77 L72 72 L65 75 L69 68 Z" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="340" cy="150" r="4" fill="#fbbf24" opacity="0.5"/>
+  <circle cx="55" cy="140" r="3" fill="#fbbf24" opacity="0.5"/>
+  <circle cx="350" cy="200" r="5" fill="#f59e0b" opacity="0.3"/>
+  <!-- Dashed line suggesting emptiness -->
+  <line x1="140" y1="145" x2="260" y2="145" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="8 6"/>
+</svg>
